@@ -1,0 +1,3 @@
+[submodule "dynamixel_control"]
+	path = dynamixel_control
+	url = https://github.com/OSUrobotics/dynamixel_control.git
